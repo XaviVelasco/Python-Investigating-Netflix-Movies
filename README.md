@@ -1,3 +1,3 @@
 # Python-Investigating-Netflix-Movies
 Datacamp Project to practice Python with Panda's
-<kbd>![Netflix Project in Python](https://www.datacamp.com/datalab/w/33995d15-41f2-4977-8a43-b4e24d744238/edit#937acf3c-c077-4ca6-8d90-8f6dd4d13c54)
+<kbd>![Netflix Project in Python](blob:https://www.datacamp.com/b70d14fe-b0a8-4284-a024-d7f8bc2e6edb)
